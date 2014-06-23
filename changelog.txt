@@ -1,0 +1,2 @@
+version 1.0:
+-can graph polynomials in format coefficient*x^power (without the *)
